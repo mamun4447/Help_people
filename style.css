@@ -139,3 +139,47 @@
     .blogs #clothes {
         background-color: rgb(161, 113, 167);
     }
+    
+    .hadith {
+        display: flex;
+    }
+    
+    .story {
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin: 60px;
+    }
+    
+    #story_text {
+        padding: 100px;
+        margin-top: 100px;
+    }
+    
+    #story_text h1 {
+        padding: 40px;
+        font-size: 30px;
+    }
+    
+    #story_text p {
+        padding: 10px;
+    }
+    
+    #story_text input {
+        padding: 15px 30px;
+        margin-left: 20px;
+        background-color: red;
+        border: none;
+        border-radius: 5px;
+    }
+    
+    #story_img img {
+        height: 500px;
+        width: 400px;
+        margin-top: 50px;
+        border-radius: 10px;
+        margin-right: 50px;
+        margin-left: 40px;
+    }
+    
+    mail_form
